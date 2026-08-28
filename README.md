@@ -38,6 +38,19 @@ firmware-agnostic. **Pre-made firmwares are coming soon.**
 
 ---
 
+## Button Wiring
+
+| Function | Button | XIAO pin | GPIO |
+|----------|--------|----------|------|
+| Up / Feed      | UP    | D0 | 1  |
+| Down / Play    | DOWN  | D1 | 0  |
+| OK / Pet       | OK    | D2 | 25 |
+| Back           | BACK  | D3 | 7  |
+| Left (screen)  | LEFT  | D8 | 8  |
+| Right (screen) | RIGHT | D9 | 9  |
+
+---
+
 ## 💡 What You Can Build
 
 Because it's just a well-equipped ESP32 board, the possibilities are wide open:

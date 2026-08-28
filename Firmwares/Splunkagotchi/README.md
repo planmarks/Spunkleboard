@@ -1,4 +1,4 @@
-# WarPet 🐾📡
+# Splunkagotchi 🐾📡
 
 A pocket **dual-band Wi-Fi + BLE wardriving rig that is also a Tamagotchi**, for the
 **Seeed Studio XIAO ESP32-C5** with a 0.96" OLED and 6 buttons.
